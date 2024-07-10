@@ -37,6 +37,6 @@
   - **Tecnologías Utilizadas**: [Tecnologías]
 
 ## Intereses
-- **Interés 1**
-- **Interés 2**
-- **Interés 3**
+- **Interés 1**Comprender el funcionamiento interno de un computador
+- **Interés 2**Aprender sobre mas de esta materia
+- **Interés 3**Y como se pueden llegar a optimizar sistemas mas eficientes
