@@ -33,7 +33,7 @@
   - **Tecnologías Utilizadas**: Computador con un sistema operativo Linux Debian, en el lenguaje de programacion en C.
 
 - **Proyecto 2**: [Nombre del Proyecto]
-  - **Descripción**: [Breve descripción del proyecto]
+  - **Descripción**: No se realizó en la materia de programación 2 proyecto
   - **Tecnologías Utilizadas**: [Tecnologías]
 
 ## Intereses
